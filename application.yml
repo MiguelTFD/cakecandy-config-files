@@ -1,0 +1,61 @@
+spring:
+  application:
+    name: global-config
+  datasource:
+    url: jdbc:${SPRING_DATASOURCE_URL}
+    username: ${SPRING_DATASOURCE_USERNAME}
+    password: ${SPRING_DATASOURCE_PASSWORD}
+  rabbitmq:
+    host: caboose.proxy.rlwy.net
+    port: 40226
+    username: 8RSMh8nQkdVsCvFH
+    password: RCtxt41dobpq8YN4AdVcfRAZQ7.fKcs.
+
+server:
+  port: 0
+
+eureka:
+  client:
+    service-url:
+      defaultZone: https://cakecandy-eureka-server-production.up.railway.app/eureka
+    register-with-eureka: true
+    fetch-registry: true
+  instance:
+    hostname: ${spring.application.name}-production.up.railway.app
+    prefer-ip-address: false
+
+logging:
+  file:
+    name: ${spring.application.name}.log
+  level:
+    root: INFO
+
+app:
+  queue:
+    name: log-queue
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: '*'
+  endpoint:
+    health:
+      show-details: always
+
+resilience4j:
+  circuitbreaker:
+    instances:
+      adminCB:
+        register-health-indicator: true
+        sliding-window-type: count-based
+        sliding-window-size: 9
+        minimum-number-of-calls: 3
+        failure-rate-threshold: 60
+        max-wait-duration-in-half-open-state: 21s
+        permitted-number-of-calls-in-half-open-state: 3
+  retry:
+    instances:
+      adminCB:
+        max-attempts: 6
+        wait-duration: 1s
