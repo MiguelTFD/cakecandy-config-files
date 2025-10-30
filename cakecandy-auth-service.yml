@@ -1,0 +1,25 @@
+server:
+  port: 9000
+
+spring:
+  application:
+    name: cakecandy-auth-service
+  datasource:
+    url: jdbc:mysql://${DB_HOST:localhost}:3306/cakebd?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
+    username: ${DB_USER:root}
+    password: ${DB_PASS:mysql}
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+jwt:
+  secret: c4k3c4ndy-super-secret
+  expiration-ms: 3600000
