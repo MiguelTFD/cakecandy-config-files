@@ -1,0 +1,41 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: cakecandy-api-gateway
+  cloud:
+    gateway:
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+            allowedOrigins: "*"
+            allowedMethods: "*"
+            allowedHeaders: "*"
+      routes:
+        - id: auth-service
+          uri: lb://cakecandy-auth-service
+          predicates:
+            - Path=/auth/**
+        - id: order-service
+          uri: lb://cakecandy-order-service
+          predicates:
+            - Path=/api/orders/**
+        - id: catalog-service
+          uri: lb://cakecandy-catalog-service
+          predicates:
+            - Path=/api/catalog/**
+  main:
+    web-application-type: reactive
+
+eureka:
+  client:
+    register-with-eureka: true
+    fetch-registry: true
+    service-url:
+      defaultZone: http://localhost:8761/eureka
+
+jwt:
+  secret: myjwtsecret12345
+  allowed-paths:
+    - /auth/**
