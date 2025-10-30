@@ -1,0 +1,321 @@
+2025-10-30T00:00:44.805-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:01:44.806-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:02:44.806-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:03:44.807-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:04:44.807-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:05:44.808-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:06:44.809-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:07:44.809-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:08:44.810-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:09:44.811-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:10:44.507-05:00  INFO 21072 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 3
+2025-10-30T00:10:44.811-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:11:44.812-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2025-10-30T00:12:44.823-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2025-10-30T00:13:44.834-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2025-10-30T00:14:44.834-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:15:44.847-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 13ms
+2025-10-30T00:16:44.847-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:17:44.850-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2025-10-30T00:18:44.851-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:19:44.851-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:20:44.858-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T00:21:44.869-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2025-10-30T00:22:44.879-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T00:23:44.881-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2025-10-30T00:24:44.881-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:25:44.522-05:00  INFO 21072 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 3
+2025-10-30T00:25:44.890-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T00:26:44.899-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2025-10-30T00:27:44.903-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T00:28:44.904-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:29:44.904-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:30:44.916-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 12ms
+2025-10-30T00:31:44.926-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T00:32:44.941-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 15ms
+2025-10-30T00:33:44.946-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T00:34:44.960-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 13ms
+2025-10-30T00:35:44.966-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T00:36:44.966-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:37:44.976-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T00:38:44.979-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2025-10-30T00:39:44.994-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 15ms
+2025-10-30T00:40:44.532-05:00  INFO 21072 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 3
+2025-10-30T00:40:44.998-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2025-10-30T00:41:45.010-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 12ms
+2025-10-30T00:42:45.014-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T00:43:45.014-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:44:45.022-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2025-10-30T00:45:45.037-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T00:46:45.037-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:47:45.038-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2025-10-30T00:48:45.045-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 7ms
+2025-10-30T00:49:45.048-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2025-10-30T00:50:45.052-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T00:51:45.053-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:52:45.057-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2025-10-30T00:53:45.061-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T00:54:45.076-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T00:55:44.541-05:00  INFO 21072 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 3
+2025-10-30T00:55:45.088-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2025-10-30T00:56:45.094-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T00:57:45.101-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T00:58:45.100-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T00:59:45.106-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T01:00:45.116-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2025-10-30T01:01:45.130-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T01:02:45.134-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2025-10-30T01:03:45.149-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T01:04:45.155-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T01:05:45.155-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:06:45.156-05:00  INFO 21072 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:07:10.318-05:00  INFO 21072 --- [cakecandy-eureka-server] [http-nio-8761-exec-2] c.n.e.registry.AbstractInstanceRegistry  : Registered instance API-GATEWAY/DESKTOP-0KN3252:api-gateway:8080 with status DOWN (replication=false)
+2025-10-30T01:07:10.840-05:00  INFO 21072 --- [cakecandy-eureka-server] [http-nio-8761-exec-1] c.n.e.registry.AbstractInstanceRegistry  : Registered instance API-GATEWAY/DESKTOP-0KN3252:api-gateway:8080 with status DOWN (replication=true)
+2025-10-30T01:07:13.498-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
+2025-10-30T01:07:13.547-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] o.s.c.n.e.s.EurekaServiceRegistry        : Unregistering application CAKECANDY-EUREKA-SERVER with eureka with status DOWN
+2025-10-30T01:07:13.605-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] o.s.b.w.e.tomcat.GracefulShutdown        : Commencing graceful shutdown. Waiting for active requests to complete
+2025-10-30T01:07:13.622-05:00  INFO 21072 --- [cakecandy-eureka-server] [tomcat-shutdown] o.s.b.w.e.tomcat.GracefulShutdown        : Graceful shutdown complete
+2025-10-30T01:07:13.631-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] o.s.c.n.e.server.EurekaServerBootstrap   : Shutting down Eureka Server..
+2025-10-30T01:07:13.631-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] c.n.eureka.DefaultEurekaServerContext    : Shutting down ...
+2025-10-30T01:07:13.663-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] c.n.eureka.DefaultEurekaServerContext    : Shut down
+2025-10-30T01:07:13.663-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] o.s.c.n.e.server.EurekaServerBootstrap   : Eureka Service is now shutdown...
+2025-10-30T01:07:13.669-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] c.n.eureka.DefaultEurekaServerContext    : Shutting down ...
+2025-10-30T01:07:13.670-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] c.n.eureka.DefaultEurekaServerContext    : Shut down
+2025-10-30T01:07:13.684-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Shutting down DiscoveryClient ...
+2025-10-30T01:07:13.685-05:00  INFO 21072 --- [cakecandy-eureka-server] [RMI TCP Connection(129)-127.0.0.1] com.netflix.discovery.DiscoveryClient    : Completed shut down of DiscoveryClient
+2025-10-30T01:07:33.488-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.c.CakecandyEurekaServerApplication     : Starting CakecandyEurekaServerApplication using Java 21.0.6 with PID 24372 (C:\Users\Andre\Downloads\ProyectFinal\cakecandy-eureka-server-main\target\classes started by Andre in C:\Users\Andre\Downloads\ProyectFinal\cakecandy-eureka-server-main)
+2025-10-30T01:07:33.492-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.c.CakecandyEurekaServerApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-10-30T01:07:33.541-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Fetching config from server at : http://localhost:5555
+2025-10-30T01:07:33.542-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.c.c.c.ConfigServerConfigDataLoader   : Located environment: name=cakecandy-eureka-server, profiles=[default], label=null, version=null, state=null
+2025-10-30T01:07:34.546-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.cloud.context.scope.GenericScope     : BeanFactory id=1a43efc1-aa7e-3c81-bd8e-96f549e9c874
+2025-10-30T01:07:34.817-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port 8761 (http)
+2025-10-30T01:07:34.831-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2025-10-30T01:07:34.831-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.apache.catalina.core.StandardEngine    : Starting Servlet engine: [Apache Tomcat/10.1.48]
+2025-10-30T01:07:34.893-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2025-10-30T01:07:34.893-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1348 ms
+2025-10-30T01:07:35.791-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.d.provider.DiscoveryJerseyProvider   : Using JSON encoding codec LegacyJacksonJson
+2025-10-30T01:07:35.793-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.d.provider.DiscoveryJerseyProvider   : Using JSON decoding codec LegacyJacksonJson
+2025-10-30T01:07:35.988-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.d.provider.DiscoveryJerseyProvider   : Using XML encoding codec XStreamXml
+2025-10-30T01:07:35.988-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.d.provider.DiscoveryJerseyProvider   : Using XML decoding codec XStreamXml
+2025-10-30T01:07:36.136-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.v.b.OptionalValidatorFactoryBean     : Failed to set up a Bean Validation provider: jakarta.validation.NoProviderFoundException: Unable to create a Configuration, because no Jakarta Bean Validation provider could be found. Add a provider like Hibernate Validator (RI) to your classpath.
+2025-10-30T01:07:36.814-05:00  WARN 24372 --- [cakecandy-eureka-server] [main] iguration$LoadBalancerCaffeineWarnLogger : Spring Cloud LoadBalancer is currently working with the default cache. While this cache implementation is useful for development and tests, it's recommended to use Caffeine cache in production.You can switch to using Caffeine cache, by adding it and org.springframework.cache.caffeine.CaffeineCacheManager to the classpath.
+2025-10-30T01:07:36.832-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.c.n.eureka.InstanceInfoFactory       : Setting initial instance status as: STARTING
+2025-10-30T01:07:36.854-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] com.netflix.discovery.DiscoveryClient    : Initializing Eureka in region us-east-1
+2025-10-30T01:07:36.855-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] com.netflix.discovery.DiscoveryClient    : Client configured to neither register nor query for data.
+2025-10-30T01:07:36.856-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] com.netflix.discovery.DiscoveryClient    : Discovery Client initialized at timestamp 1761804456856 with initial instances count: 0
+2025-10-30T01:07:36.895-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.eureka.DefaultEurekaServerContext    : Initializing ...
+2025-10-30T01:07:36.897-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.eureka.cluster.PeerEurekaNodes       : Adding new peer nodes [http://localhost:8761/eureka/]
+2025-10-30T01:07:37.036-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.d.provider.DiscoveryJerseyProvider   : Using JSON encoding codec LegacyJacksonJson
+2025-10-30T01:07:37.036-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.d.provider.DiscoveryJerseyProvider   : Using JSON decoding codec LegacyJacksonJson
+2025-10-30T01:07:37.036-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.d.provider.DiscoveryJerseyProvider   : Using XML encoding codec XStreamXml
+2025-10-30T01:07:37.036-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.d.provider.DiscoveryJerseyProvider   : Using XML decoding codec XStreamXml
+2025-10-30T01:07:37.067-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.eureka.cluster.PeerEurekaNodes       : Replica node URL:  http://localhost:8761/eureka/
+2025-10-30T01:07:37.079-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.e.registry.AbstractInstanceRegistry  : Finished initializing remote region registries. All known remote regions: []
+2025-10-30T01:07:37.079-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.n.eureka.DefaultEurekaServerContext    : Initialized
+2025-10-30T01:07:37.089-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.b.a.e.web.EndpointLinksResolver      : Exposing 17 endpoints beneath base path '/actuator'
+2025-10-30T01:07:37.165-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.c.n.e.s.EurekaServiceRegistry        : Registering application CAKECANDY-EUREKA-SERVER with eureka with status UP
+2025-10-30T01:07:37.176-05:00  INFO 24372 --- [cakecandy-eureka-server] [Thread-9] o.s.c.n.e.server.EurekaServerBootstrap   : isAws returned false
+2025-10-30T01:07:37.177-05:00  INFO 24372 --- [cakecandy-eureka-server] [Thread-9] o.s.c.n.e.server.EurekaServerBootstrap   : Initialized server context
+2025-10-30T01:07:37.177-05:00  INFO 24372 --- [cakecandy-eureka-server] [Thread-9] c.n.e.r.PeerAwareInstanceRegistryImpl    : Got 1 instances from neighboring DS node
+2025-10-30T01:07:37.177-05:00  INFO 24372 --- [cakecandy-eureka-server] [Thread-9] c.n.e.r.PeerAwareInstanceRegistryImpl    : Renew threshold is: 1
+2025-10-30T01:07:37.177-05:00  INFO 24372 --- [cakecandy-eureka-server] [Thread-9] c.n.e.r.PeerAwareInstanceRegistryImpl    : Changing status to UP
+2025-10-30T01:07:37.179-05:00  INFO 24372 --- [cakecandy-eureka-server] [Thread-9] e.s.EurekaServerInitializerConfiguration : Started Eureka Server
+2025-10-30T01:07:37.182-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port 8761 (http) with context path '/'
+2025-10-30T01:07:37.184-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] .s.c.n.e.s.EurekaAutoServiceRegistration : Updating port to 8761
+2025-10-30T01:07:37.200-05:00  INFO 24372 --- [cakecandy-eureka-server] [main] c.c.CakecandyEurekaServerApplication     : Started CakecandyEurekaServerApplication in 4.893 seconds (process running for 6.007)
+2025-10-30T01:07:37.633-05:00  INFO 24372 --- [cakecandy-eureka-server] [RMI TCP Connection(10)-127.0.0.1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2025-10-30T01:07:37.634-05:00  INFO 24372 --- [cakecandy-eureka-server] [RMI TCP Connection(10)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2025-10-30T01:07:37.635-05:00  INFO 24372 --- [cakecandy-eureka-server] [RMI TCP Connection(10)-127.0.0.1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
+2025-10-30T01:07:48.612-05:00  INFO 24372 --- [cakecandy-eureka-server] [http-nio-8761-exec-2] c.n.e.registry.AbstractInstanceRegistry  : Registered instance API-GATEWAY/DESKTOP-0KN3252:api-gateway:8080 with status UP (replication=false)
+2025-10-30T01:07:49.328-05:00  INFO 24372 --- [cakecandy-eureka-server] [http-nio-8761-exec-3] c.n.e.registry.AbstractInstanceRegistry  : Registered instance API-GATEWAY/DESKTOP-0KN3252:api-gateway:8080 with status UP (replication=true)
+2025-10-30T01:08:37.179-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:09:37.194-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 15ms
+2025-10-30T01:10:37.194-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:11:37.194-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:12:37.198-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T01:13:37.198-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:14:37.204-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T01:15:37.205-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2025-10-30T01:16:37.206-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2025-10-30T01:17:37.215-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2025-10-30T01:18:37.217-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2025-10-30T01:19:37.232-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T01:20:37.245-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 13ms
+2025-10-30T01:21:37.251-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T01:22:37.080-05:00  INFO 24372 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 3
+2025-10-30T01:22:37.256-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T01:23:37.261-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T01:24:37.261-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:25:37.269-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 7ms
+2025-10-30T01:26:37.279-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2025-10-30T01:27:37.282-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2025-10-30T01:28:37.291-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2025-10-30T01:29:37.297-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T01:30:37.302-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T01:31:37.312-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T01:32:37.312-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:33:37.318-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T01:34:37.324-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T01:35:37.333-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T01:36:37.339-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T01:37:37.095-05:00  INFO 24372 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 3
+2025-10-30T01:37:37.339-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:38:37.350-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2025-10-30T01:39:37.351-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:40:37.362-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2025-10-30T01:41:37.365-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2025-10-30T01:42:37.366-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2025-10-30T01:43:18.457-05:00  INFO 24372 --- [cakecandy-eureka-server] [http-nio-8761-exec-7] c.n.e.registry.AbstractInstanceRegistry  : Registered instance CAKECANDY-CATALOG-SERVICE/DESKTOP-0KN3252:cakecandy-catalog-service:0 with status UP (replication=false)
+2025-10-30T01:43:18.969-05:00  INFO 24372 --- [cakecandy-eureka-server] [http-nio-8761-exec-10] c.n.e.registry.AbstractInstanceRegistry  : Registered instance CAKECANDY-CATALOG-SERVICE/DESKTOP-0KN3252:cakecandy-catalog-service:0 with status UP (replication=true)
+2025-10-30T01:43:37.367-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:44:37.382-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T01:45:37.390-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2025-10-30T01:46:37.399-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T01:47:37.400-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:48:37.409-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 8ms
+2025-10-30T01:49:37.415-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T01:50:37.415-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:51:37.427-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 12ms
+2025-10-30T01:52:37.096-05:00  INFO 24372 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 5
+2025-10-30T01:52:37.428-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T01:53:37.440-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 12ms
+2025-10-30T01:54:37.449-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T01:55:37.456-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T01:56:37.460-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T01:57:37.468-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 7ms
+2025-10-30T01:58:37.477-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 9ms
+2025-10-30T01:59:37.478-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:00:37.478-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:01:37.493-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 15ms
+2025-10-30T02:02:37.508-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T02:03:37.513-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T02:04:06.848-05:00  INFO 24372 --- [cakecandy-eureka-server] [http-nio-8761-exec-7] c.n.e.registry.AbstractInstanceRegistry  : Registered instance CAKECANDY-IDENTITY-SERVICE/DESKTOP-0KN3252:cakecandy-identity-service:0 with status UP (replication=false)
+2025-10-30T02:04:07.374-05:00  INFO 24372 --- [cakecandy-eureka-server] [http-nio-8761-exec-6] c.n.e.registry.AbstractInstanceRegistry  : Registered instance CAKECANDY-IDENTITY-SERVICE/DESKTOP-0KN3252:cakecandy-identity-service:0 with status UP (replication=true)
+2025-10-30T02:04:37.523-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2025-10-30T02:05:37.528-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T02:06:37.543-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T02:06:50.764-05:00 ERROR 24372 --- [cakecandy-eureka-server] [TaskBatchingWorker-target_localhost-6] c.n.e.cluster.ReplicationTaskProcessor   : It seems to be a socket read timeout exception, it will retry later. if it continues to happen and some eureka node occupied all the cpu time, you should set property 'eureka.server.peer-node-read-timeout-ms' to a bigger value
+
+jakarta.ws.rs.ProcessingException: java.net.SocketTimeoutException: Read timed out
+	at org.glassfish.jersey.apache.connector.ApacheConnector.apply(ApacheConnector.java:534) ~[jersey-apache-connector-3.1.11.jar:na]
+	at org.glassfish.jersey.client.ClientRuntime.invoke(ClientRuntime.java:300) ~[jersey-client-3.1.11.jar:na]
+	at org.glassfish.jersey.client.JerseyInvocation.lambda$invoke$0(JerseyInvocation.java:674) ~[jersey-client-3.1.11.jar:na]
+	at org.glassfish.jersey.client.JerseyInvocation.call(JerseyInvocation.java:709) ~[jersey-client-3.1.11.jar:na]
+	at org.glassfish.jersey.client.JerseyInvocation.lambda$runInScope$3(JerseyInvocation.java:703) ~[jersey-client-3.1.11.jar:na]
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:292) ~[jersey-common-3.1.11.jar:na]
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:274) ~[jersey-common-3.1.11.jar:na]
+	at org.glassfish.jersey.internal.Errors.process(Errors.java:205) ~[jersey-common-3.1.11.jar:na]
+	at org.glassfish.jersey.process.internal.RequestScope.runInScope(RequestScope.java:391) ~[jersey-common-3.1.11.jar:na]
+	at org.glassfish.jersey.client.JerseyInvocation.runInScope(JerseyInvocation.java:703) ~[jersey-client-3.1.11.jar:na]
+	at org.glassfish.jersey.client.JerseyInvocation.invoke(JerseyInvocation.java:673) ~[jersey-client-3.1.11.jar:na]
+	at org.glassfish.jersey.client.JerseyInvocation$Builder.method(JerseyInvocation.java:439) ~[jersey-client-3.1.11.jar:na]
+	at org.glassfish.jersey.client.JerseyInvocation$Builder.post(JerseyInvocation.java:345) ~[jersey-client-3.1.11.jar:na]
+	at com.netflix.eureka.transport.Jersey3ReplicationClient.submitBatchUpdates(Jersey3ReplicationClient.java:116) ~[eureka-core-jersey3-2.0.4.jar:2.0.4]
+	at com.netflix.eureka.cluster.ReplicationTaskProcessor.process(ReplicationTaskProcessor.java:80) ~[eureka-core-2.0.4.jar:2.0.4]
+	at com.netflix.eureka.util.batcher.TaskExecutors$BatchWorkerRunnable.run(TaskExecutors.java:178) ~[eureka-core-2.0.4.jar:2.0.4]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[na:na]
+Caused by: java.net.SocketTimeoutException: Read timed out
+	at java.base/sun.nio.ch.NioSocketImpl.timedRead(NioSocketImpl.java:278) ~[na:na]
+	at java.base/sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:304) ~[na:na]
+	at java.base/sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:346) ~[na:na]
+	at java.base/sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:796) ~[na:na]
+	at java.base/java.net.Socket$SocketInputStream.read(Socket.java:1099) ~[na:na]
+	at org.apache.http.impl.io.SessionInputBufferImpl.streamRead(SessionInputBufferImpl.java:137) ~[httpcore-4.4.16.jar:4.4.16]
+	at org.apache.http.impl.io.SessionInputBufferImpl.fillBuffer(SessionInputBufferImpl.java:153) ~[httpcore-4.4.16.jar:4.4.16]
+	at org.apache.http.impl.io.SessionInputBufferImpl.readLine(SessionInputBufferImpl.java:280) ~[httpcore-4.4.16.jar:4.4.16]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:138) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.apache.http.impl.conn.DefaultHttpResponseParser.parseHead(DefaultHttpResponseParser.java:56) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.apache.http.impl.io.AbstractMessageParser.parse(AbstractMessageParser.java:259) ~[httpcore-4.4.16.jar:4.4.16]
+	at org.apache.http.impl.DefaultBHttpClientConnection.receiveResponseHeader(DefaultBHttpClientConnection.java:163) ~[httpcore-4.4.16.jar:4.4.16]
+	at org.apache.http.impl.conn.CPoolProxy.receiveResponseHeader(CPoolProxy.java:165) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.apache.http.protocol.HttpRequestExecutor.doReceiveResponse(HttpRequestExecutor.java:273) ~[httpcore-4.4.16.jar:4.4.16]
+	at org.apache.http.protocol.HttpRequestExecutor.execute(HttpRequestExecutor.java:125) ~[httpcore-4.4.16.jar:4.4.16]
+	at org.apache.http.impl.execchain.MainClientExec.execute(MainClientExec.java:272) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.apache.http.impl.execchain.ProtocolExec.execute(ProtocolExec.java:185) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.apache.http.impl.execchain.RetryExec.execute(RetryExec.java:89) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.apache.http.impl.execchain.RedirectExec.execute(RedirectExec.java:111) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.apache.http.impl.client.InternalHttpClient.doExecute(InternalHttpClient.java:185) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.apache.http.impl.client.CloseableHttpClient.execute(CloseableHttpClient.java:72) ~[httpclient-4.5.3.jar:4.5.3]
+	at org.glassfish.jersey.apache.connector.ApacheConnector.apply(ApacheConnector.java:486) ~[jersey-apache-connector-3.1.11.jar:na]
+	... 16 common frames omitted
+
+2025-10-30T02:07:37.097-05:00  INFO 24372 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 6
+2025-10-30T02:07:37.546-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2025-10-30T02:08:37.547-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2025-10-30T02:09:37.547-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:10:37.548-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:11:37.548-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:12:37.549-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:13:37.549-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:14:37.549-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:15:37.550-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:16:37.551-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:17:37.551-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:18:37.551-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:19:37.551-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:20:37.551-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:21:37.552-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:22:37.097-05:00  INFO 24372 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 6
+2025-10-30T02:22:37.553-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:23:37.555-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2025-10-30T02:24:37.555-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:25:37.561-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T02:26:37.562-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:27:37.573-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2025-10-30T02:28:37.577-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2025-10-30T02:29:37.578-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:30:37.578-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:31:37.585-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 7ms
+2025-10-30T02:32:37.585-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:33:37.588-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 2ms
+2025-10-30T02:34:37.602-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T02:35:37.603-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:36:37.618-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 14ms
+2025-10-30T02:37:37.126-05:00  INFO 24372 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 6
+2025-10-30T02:37:37.618-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:38:37.618-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:39:37.618-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:40:37.618-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:41:37.619-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:42:37.620-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:43:37.620-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:44:37.621-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:45:37.622-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:46:37.622-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:47:37.623-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:48:37.624-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:49:37.624-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:50:37.624-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:51:37.625-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:52:37.123-05:00  INFO 24372 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 6
+2025-10-30T02:52:37.625-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:53:37.625-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:54:37.628-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 3ms
+2025-10-30T02:55:37.639-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 10ms
+2025-10-30T02:56:37.639-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T02:57:37.640-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 1ms
+2025-10-30T02:58:37.646-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 5ms
+2025-10-30T02:59:37.657-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 11ms
+2025-10-30T03:00:37.658-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:01:37.664-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 6ms
+2025-10-30T03:02:37.665-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:03:37.669-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T03:04:37.673-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 4ms
+2025-10-30T03:05:37.673-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:06:37.688-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 15ms
+2025-10-30T03:07:37.398-05:00  INFO 24372 --- [cakecandy-eureka-server] [ReplicaAwareInstanceRegistry - RenewalThresholdUpdater] c.n.e.r.PeerAwareInstanceRegistryImpl    : Current renewal threshold is : 6
+2025-10-30T03:07:37.701-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 12ms
+2025-10-30T03:08:37.701-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:09:37.702-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:10:07.728-05:00  INFO 24372 --- [cakecandy-eureka-server] [http-nio-8761-exec-9] c.n.e.registry.AbstractInstanceRegistry  : Registered instance CAKECANDY-ORDER-SERVICE/DESKTOP-0KN3252:cakecandy-order-service:0 with status UP (replication=false)
+2025-10-30T03:10:08.241-05:00  INFO 24372 --- [cakecandy-eureka-server] [http-nio-8761-exec-1] c.n.e.registry.AbstractInstanceRegistry  : Registered instance CAKECANDY-ORDER-SERVICE/DESKTOP-0KN3252:cakecandy-order-service:0 with status UP (replication=true)
+2025-10-30T03:10:37.703-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:11:37.703-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:12:37.704-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:13:37.705-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:14:37.705-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:15:37.706-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:16:37.706-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:17:37.707-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:18:37.708-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
+2025-10-30T03:19:37.709-05:00  INFO 24372 --- [cakecandy-eureka-server] [Eureka-EvictionTimer] c.n.e.registry.AbstractInstanceRegistry  : Running the evict task with compensationTime 0ms
